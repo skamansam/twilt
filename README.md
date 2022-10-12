@@ -4,24 +4,24 @@ This is a pet project by Skaman Sam Tyler to learn Vite, Tailwind, Vue 3, and np
 
 ## Components:
 
-- [] App:
-  - [] AppHeader
-  - [] SideBar
-  - [] 
+- [ ] App:
+  - [ ] AppHeader
+  - [ ] SideBar
+  - [ ] 
 
 ### Heirarchy
-- [] Container
-  - [] Panel (collapsible content and header)
-    - [] Sidebar (attaches to side of parent)
-    - [] BottomBar
-    - [] Accordion
-    - [] Card
-    - [] Lazy (content loads when card is visible)
-    - []
-  - [] AppHeader
-  - [] App
-    - [] `split` is IDE-style (resizable panels)
-- [] Separator (visual HR/VR with text, icon, etc)
+- [ ] Container
+  - [ ] Panel (collapsible content and header)
+    - [ ] Sidebar (attaches to side of parent)
+    - [ ] BottomBar
+    - [ ] Accordion
+    - [ ] Card
+    - [ ] Lazy (content loads when card is visible)
+    - [ ]
+  - [ ] AppHeader
+  - [ ] App
+    - [ ] `split` is IDE-style (resizable panels)
+- [ ] Separator (visual HR/VR with text, icon, etc)
 
 ## Recommended IDE Setup
 
